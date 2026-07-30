@@ -56,20 +56,24 @@ turn_speed = max(-3.0, min(3.0, diff * 5.0))
 left_motor.setVelocity(2.0 - turn_speed)
 right_motor.setVelocity(2.0 + turn_speed)
 ```
-
+---
 
 📂 Project Structure
 text
-gravity-simulation-mvp/
+Gravity-Simulation/
 ├── worlds/
-│   └── gravity_simulation.wbt
+│   └── Gravity_Simulation.wbt
 ├── controllers/
 │   └── gravity_controller/
 │       └── gravity_controller.py
 └── README.md
+
+---
+
 🎥 Demo Video
 [Click Here!](https://youtu.be/yGCKrWO028A)
 
+---
 
 # 🚀 Future Improvements:
 
