@@ -81,7 +81,7 @@ Gravity-Simulation/
 
 ---
 
-## 🚀 Future Improvements:
+## 🚀 Future Improvements
 
 🌍 Add gravity simulation (speed varies with distance)
 
