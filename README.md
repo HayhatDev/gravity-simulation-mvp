@@ -59,13 +59,19 @@ right_motor.setVelocity(2.0 + turn_speed)
 ---
 
 ## 📂 Project Structure
-text
+
 Gravity-Simulation/
+
 ├── worlds/
+
 │   └── Gravity_Simulation.wbt
+
 ├── controllers/
+
 │   └── gravity_controller/
+
 │       └── gravity_controller.py
+
 └── README.md
 
 ---
