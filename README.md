@@ -70,9 +70,8 @@ Gravity-Simulation/
 
 │   └── gravity_controller/
 
-│       └── gravity_controller.py
+└──         └── gravity_controller.py
 
-└── README.md
 
 ---
 
