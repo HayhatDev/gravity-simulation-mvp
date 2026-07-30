@@ -35,7 +35,7 @@ This is the **Minimum Viable Product (MVP)**: a solid foundation for future upgr
 
 ## 🎮 How to Run
 
-1. Open `gravity_simulation.wbt` in Webots.
+1. Open `Gravity_Simulation.wbt` in Webots.
 2. Make sure the robot has `DEF = "robot"` and `supervisor = TRUE`.
 3. Make sure adding GPS device in the robot "turretSlot".
 4. Run the simulation ▶️.
