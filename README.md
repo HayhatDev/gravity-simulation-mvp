@@ -58,7 +58,7 @@ right_motor.setVelocity(2.0 + turn_speed)
 ```
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 text
 Gravity-Simulation/
 ├── worlds/
@@ -70,12 +70,12 @@ Gravity-Simulation/
 
 ---
 
-🎥 Demo Video
+## 🎥 Demo Video
 [Click Here!](https://youtu.be/yGCKrWO028A)
 
 ---
 
-# 🚀 Future Improvements:
+## 🚀 Future Improvements:
 
 🌍 Add gravity simulation (speed varies with distance)
 
@@ -85,11 +85,11 @@ Gravity-Simulation/
 
 🌟 Interactive control panel (Streamlit)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Hayhat Tahir
 
 📸 Instagram: [@Zanst.21](https://www.instagram.com/zanst.21)
 
 
-📄 License
+## 📄 License
 MIT License: free to use, modify, and distribute with attribution.
